@@ -1,0 +1,14 @@
+# ignore all txt
+*.txt
+
+# ignore scite folder
+scite/
+
+# ignore qmk
+qmk backup commands/
+
+# ignore simple spy
+simple spy/
+
+# ignore hotkeyp
+hotkeyp/
